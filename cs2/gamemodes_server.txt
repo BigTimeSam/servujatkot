@@ -8,7 +8,7 @@
 			{
 				"competitive"
 				{
-					"maxplayers"		"64"
+					"maxplayers"	"64"
 					"mapgroupsMP"
 					{
 						"mg_comp"	""
@@ -21,22 +21,22 @@
 	{
 		"mg_comp"
 		{
-			"name"			"mg_comp"
+			"name"				"mg_comp"
 			"displayname"		"Competitive"
 			"maps"
 			{
-				"cs_italy"	""
-				"cs_office"	""
+				"cs_italy"		""
+				"cs_office"		""
 				"de_vertigo"	""
 				"de_ancient"	""
-				"de_anubis"	""
-				"de_dust2"	""
+				"de_anubis"		""
+				"de_dust2"		""
 				"de_inferno"	""
-				"de_mirage"	""
-				"de_nuke"	""
-				"de_train"	""
-				"de_basalt"	""
-				"de_edin"	""
+				"de_mirage"		""
+				"de_nuke"		""
+				"de_train"		""
+				"de_basalt"		""
+				"de_edin"		""
 				"de_overpass"	""
 				"de_vertigo"	""
 			}
